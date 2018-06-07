@@ -45,6 +45,17 @@ function updateClass(className)
 document.body.className= className;
 
 }
+
+function updateColour(color)
+
+{
+    document.body.className= color;
+    console.log("Colour");
+}
+
+
+
+
 // num1 =10 ;
 // if (num1<0)
 // {return true;
